@@ -1,4 +1,5 @@
 # Mega Desafio Python Infinity School
+1° lugar no desafio
 
 Uma amiga de Alex deu uma coleção de filmes para ela de presente, e Alex está animada para assistir todos eles o mais rápido possível. A duração dos filmes é dada em um vetor duracoes [n], onde o n é o número do filme, e cada filme dura entre 1.01 e 3.00 horas (até duas casas decimais). Alex quer gastar no máximo 3.00 horas assistindo filmes por dia, mas também quer assistir a coleção completa no mínimo números de dias possível. Alex nunca para de assistir um filme na metade. Isso é, se Alex escolheu um filme, Alex assistir um filme por completo no mesmo dia. Ache o número mínimo de dias necessários para assistir a coleção de filme completa. Exemplo:
 
